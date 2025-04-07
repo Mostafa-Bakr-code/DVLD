@@ -17,7 +17,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace DVLD_3Tier
-{           // test here cleared
+{           
     public partial class FrmMain : Form
     {
 
