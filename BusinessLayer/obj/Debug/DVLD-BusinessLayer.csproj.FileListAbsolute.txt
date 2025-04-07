@@ -1,0 +1,6 @@
+C:\Users\Ahmed\Desktop\DVLD-3Tier\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Ahmed\Desktop\DVLD-3Tier\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Ahmed\Desktop\DVLD-3Tier\BusinessLayer\obj\Debug\DVLD-BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\DVLD-3Tier\BusinessLayer\obj\Debug\DVLD-BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\DVLD-3Tier\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Ahmed\Desktop\DVLD-3Tier\BusinessLayer\obj\Debug\BusinessLayer.pdb
